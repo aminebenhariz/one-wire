@@ -1,0 +1,1 @@
+This folder is left empty to simulate no devices in w1 path
